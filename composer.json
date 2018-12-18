@@ -9,7 +9,6 @@
     "spryker-feature/spryker-core": "~2018.12.0",
     "spryker-shop/catalog-page": "^1.4.0",
     "spryker/catalog": "^5.4.0",
-    "spryker/catalog-search-products-resource-relationship": "^1.1.0",
-    "spryker/catalog-search-rest-api": "^1.4.0"
+    "spryker/catalog-search-products-resource-relationship": "^1.1.0"
   }
 }
