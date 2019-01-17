@@ -6,8 +6,8 @@
   "minimum-stability": "dev",
   "require": {
     "php": ">=7.1",
-    "spryker-feature/spryker-core": "~201903.0",
-    "spryker-shop/catalog-page": "^1.5.1",
+    "spryker-feature/spryker-core": "^201902.0",
+    "spryker-shop/catalog-page": "^1.6.0",
     "spryker/catalog": "^5.5.0"
   }
 }
