@@ -7,14 +7,14 @@
   "prefer-stable": true,
   "require": {
     "php": ">=7.1",
-    "spryker-feature/spryker-core": "^201906.0",
+    "spryker-feature/spryker-core": "^201907.0",
     "spryker-shop/catalog-page": "^1.6.0",
     "spryker-shop/tabs-widget": "^1.0.0",
     "spryker/catalog": "^5.5.1"
   },
   "extra": {
     "branch-alias": {
-      "dev-master": "201906.x-dev"
+      "dev-master": "201907.x-dev"
     }
   }
 }
