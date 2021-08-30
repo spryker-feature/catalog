@@ -1,22 +1,22 @@
 {
-  "name": "spryker-feature/catalog",
-  "description": "Catalog [feature]",
-  "type": "metapackage",
-  "license": "proprietary",
-  "minimum-stability": "dev",
-  "prefer-stable": true,
-  "require": {
-    "php": ">=7.3",
-    "spryker-shop/catalog-page": "^1.18.0",
-    "spryker-shop/tabs-widget": "^1.0.0",
-    "spryker/catalog": "^5.6.0"
-  },
-  "extra": {
-    "branch-alias": {
-      "dev-master": "202107.x-dev"
+    "name": "spryker-feature/catalog",
+    "description": "Catalog [feature]",
+    "type": "metapackage",
+    "license": "proprietary",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=7.3",
+        "spryker-shop/catalog-page": "^1.21.0",
+        "spryker-shop/tabs-widget": "^1.0.0",
+        "spryker/catalog": "^5.6.0"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "202108.x-dev"
+        }
+    },
+    "suggest": {
+        "spryker-feature/spryker-core": "Recommended feature dependency."
     }
-  },
-  "suggest": {
-    "spryker-feature/spryker-core": "Recommended feature dependency."
-  }
 }
