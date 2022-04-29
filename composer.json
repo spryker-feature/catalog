@@ -7,9 +7,9 @@
     "prefer-stable": true,
     "require": {
         "php": ">=7.4",
-        "spryker-shop/catalog-page": "^1.21.0",
+        "spryker-shop/catalog-page": "^1.23.0",
         "spryker-shop/tabs-widget": "^1.0.0",
-        "spryker/catalog": "^5.6.0"
+        "spryker/catalog": "^5.7.0"
     },
     "extra": {
         "branch-alias": {
