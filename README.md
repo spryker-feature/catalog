@@ -14,6 +14,7 @@ composer require spryker-feature/catalog
 If you don't include the feature dependencies, make sure you use the respective modules instead.
 
 ## Optional modules
+- [CatalogExtension ^1.0.0](https://github.com/spryker/catalog-extension) (Extension)
 - [CatalogSearchProductsResourceRelationship ^1.2.0](https://github.com/spryker/catalog-search-products-resource-relationship) (Glue)
 - [CatalogSearchRestApi ^2.7.0](https://github.com/spryker/catalog-search-rest-api) (Glue)
 - [Shop.TabsWidgetExtension ^1.0.0](https://github.com/spryker-shop/tabs-widget-extension) (Extension)
