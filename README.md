@@ -2,6 +2,8 @@
 
 Oganize your products to meet your's and your customer's demands, primarily to make sure everyone can quickly find what they are looking for.
 
+[Learn more](https://docs.spryker.com/docs/pbc/all/product-information-management/202307.0/base-shop/feature-overviews/catalog-feature-overview.html)
+
 ## Installation
 
 ```
