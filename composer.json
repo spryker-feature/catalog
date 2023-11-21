@@ -9,7 +9,7 @@
         "php": ">=8.0",
         "spryker-shop/catalog-page": "^1.25.0",
         "spryker-shop/tabs-widget": "^1.0.0",
-        "spryker/catalog": "^5.8.0"
+        "spryker/catalog": "^5.9.0"
     },
     "extra": {
         "branch-alias": {
