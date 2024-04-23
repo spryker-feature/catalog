@@ -18,5 +18,5 @@ If you don't include the feature dependencies, make sure you use the respective 
 ## Optional modules
 - [CatalogExtension ^1.0.0](https://github.com/spryker/catalog-extension) (Extension)
 - [CatalogSearchProductsResourceRelationship ^1.2.0](https://github.com/spryker/catalog-search-products-resource-relationship) (Legacy Glue)
-- [CatalogSearchRestApi ^2.8.0](https://github.com/spryker/catalog-search-rest-api) (Legacy Glue)
+- [CatalogSearchRestApi ^2.10.0](https://github.com/spryker/catalog-search-rest-api) (Legacy Glue)
 - [Shop.TabsWidgetExtension ^1.0.0](https://github.com/spryker-shop/tabs-widget-extension) (Extension)
