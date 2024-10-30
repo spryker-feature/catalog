@@ -7,7 +7,7 @@
     "prefer-stable": true,
     "require": {
         "php": ">=8.2",
-        "spryker-shop/catalog-page": "^1.25.0",
+        "spryker-shop/catalog-page": "^1.27.0",
         "spryker-shop/tabs-widget": "^1.0.0",
         "spryker/catalog": "^5.10.0"
     },
