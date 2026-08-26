@@ -7,13 +7,13 @@
     "prefer-stable": true,
     "require": {
         "php": ">=8.2",
-        "spryker-shop/catalog-page": "^1.36.0",
-        "spryker-shop/tabs-widget": "^1.0.0",
+        "spryker-shop/catalog-page": "^1.37.0",
+        "spryker-shop/tabs-widget": "^1.1.0",
         "spryker/catalog": "^5.13.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202606.x-dev"
+            "dev-master": "202608.x-dev"
         }
     },
     "suggest": {
